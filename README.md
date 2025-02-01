@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spyro24&theme=codeSTACKr)](https://github.com/Spyro24)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyro24&layout=compact&theme=codeSTACKr)](https://github.com/Spyro24)
 
 <!--
