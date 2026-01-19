@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spyro24&title_color=00DAFF&text_color=FFFFFF&show_icons=true&icon_color=00D2FF&include_all_commits=true&count_private=true&theme=dark)](https://github.com/Spyro24)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spyro24&title_color=00DAFF&text_color=FFFFFF&show_icons=true&icon_color=00D2FF&include_all_commits=true&theme=dark)](https://github.com/Spyro24)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyro24&layout=compact&theme=codeSTACKr)](https://github.com/Spyro24)
 
