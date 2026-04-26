@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/spyro24/UStoat">
-       <img src="https://raw.githubusercontent.com/Spyro24/UStoat/main/res/icons/app_icon_x384.png" alt="app icon" style="display:block; border:0; padding:0; margin:0; max-width:128px; width:100%; height:auto;" />
+       <img src="https://github.com/Spyro24/UStoat/blob/main/res/icons/app_icon_x384.png" alt="UStoat" height="128" />
       </a>
     </td>
   </tr>
