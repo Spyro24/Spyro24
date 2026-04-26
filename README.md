@@ -1,3 +1,5 @@
+### My Projects
+
 <table>
   <tr>
     <td align="center">
@@ -7,6 +9,8 @@
     </td>
   </tr>
 </table>
+
+### My Stats
 
 <table cellpadding="0" cellspacing="0" style="border:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
   <tr style="border:0;">
