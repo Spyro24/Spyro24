@@ -1,8 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spyro24&title_color=00DAFF&text_color=FFFFFF&show_icons=true&icon_color=00D2FF&include_all_commits=true&theme=dark)](https://github.com/Spyro24)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyro24&layout=compact&theme=codeSTACKr)](https://github.com/Spyro24)
 
-[![Spyro24 Leetcode](https://leetcode.card.workers.dev/spyro24?theme=dark&font=baloo&extension=null&border=2&border_radius=8)](https://leetcode.com/u/spyro24/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spyro24&title_color=00DAFF&text_color=FFFFFF&show_icons=true&icon_color=00D2FF&include_all_commits=true&theme=dark)](https://github.com/Spyro24) [![Spyro24 Leetcode](https://leetcode.card.workers.dev/spyro24?theme=dark&font=baloo&extension=null&border=2&border_radius=8)](https://leetcode.com/u/spyro24/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyro24&layout=compact&theme=codeSTACKr)](https://github.com/Spyro24)
 
 <!--
 **Spyro24/Spyro24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
