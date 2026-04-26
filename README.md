@@ -9,7 +9,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/spyro24" title="Coming Soon...">
-        <img scr="https://github.com/Spyro24/Spyro24/blob/main/app_icon.png" alt="Coming Soon..." height="128"/>
+       <img src="https://github.com/Spyro24/Spyro24/blob/main/app_icon.png" alt="Coming Soon..." height="128" />
       </a>
     </td>
   </tr>
