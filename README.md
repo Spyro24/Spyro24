@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/spyro24/UStoat">
-       <img src="https://github.com/Spyro24/UStoat/blob/main/res/icons/app_icon_x384.png" alt="UStoat" height="128" />
+      <a href="https://github.com/spyro24/UStoat" title="UStoat client">
+       <img src="https://github.com/Spyro24/Spyro24/blob/main/UStoat_icon_x384.png" alt="UStoat" height="128" />
       </a>
     </td>
   </tr>
