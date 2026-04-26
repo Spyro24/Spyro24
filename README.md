@@ -1,3 +1,13 @@
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/spyro24/UStoat">
+       <img src="https://raw.githubusercontent.com/Spyro24/UStoat/main/res/icons/app_icon_x384.png" alt="app icon" style="display:block; border:0; padding:0; margin:0; max-width:128px; width:100%; height:auto;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <table cellpadding="0" cellspacing="0" style="border:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
   <tr style="border:0;">
     <td align="center" style="padding:0; margin:0; border:0;">
